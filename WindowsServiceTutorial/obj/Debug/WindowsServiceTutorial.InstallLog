@@ -1,0 +1,10 @@
+﻿Installing assembly 'C:\Users\Admin\source\repos\WindowsServiceTutorial\WindowsServiceTutorial\obj\Debug\WindowsServiceTutorial.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Admin\source\repos\WindowsServiceTutorial\WindowsServiceTutorial\obj\Debug\WindowsServiceTutorial.InstallLog
+   assemblypath = C:\Users\Admin\source\repos\WindowsServiceTutorial\WindowsServiceTutorial\obj\Debug\WindowsServiceTutorial.exe
+Committing assembly 'C:\Users\Admin\source\repos\WindowsServiceTutorial\WindowsServiceTutorial\obj\Debug\WindowsServiceTutorial.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Admin\source\repos\WindowsServiceTutorial\WindowsServiceTutorial\obj\Debug\WindowsServiceTutorial.InstallLog
+   assemblypath = C:\Users\Admin\source\repos\WindowsServiceTutorial\WindowsServiceTutorial\obj\Debug\WindowsServiceTutorial.exe
